@@ -39,7 +39,7 @@ debug.stagefright.omx_default_rank=0
 debug.stagefright.omx_default_rank.sw-audio=1
 
 ### KEYSTORE
-### ro.hardware.keystore=mdfpp
+ro.hardware.keystore=mdfpp
 
 ### OPENGLES
 ro.opengles.version=196610
