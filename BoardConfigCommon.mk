@@ -14,6 +14,7 @@
 # limitations under the License.
 
 COMMON_PATH := device/samsung/exynos9810-common
+TARGET_KERNEL_CLANG_VERSION := r416183b1
 
 BUILD_BROKEN_DUP_RULES := true
 
